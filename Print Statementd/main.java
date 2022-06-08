@@ -1,6 +1,6 @@
 class Print
 {
-	public static void main (String[] args) throws java.lang.Exception
+	public static void main (String[] args)
 	{
 		//prints statement in a new line
 		System.out.println("Ping!!");
